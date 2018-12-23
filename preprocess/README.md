@@ -2,7 +2,7 @@ preprocess
 ====
 
 ## Overview
-This folder includes rstan codes, graphing codes, and data for data processing section in Yamamoto, Sato and Itakura (2019): Not too close, not too far: Interpersonal distance modulates infant-parent gaze communication.
+This folder includes rstan codes, graphing codes, and data for data processing section in "Not too close, not too far: Interpersonal distance modulates infant-parent gaze communication" by Yamamoto, Sato and Itakura (2019).
 
 ## Description
 It consists maily of two folders and four files:
