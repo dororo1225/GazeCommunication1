@@ -1,8 +1,8 @@
-NotTooClose_NotTooFar
+GazeCommunication1
 ====
 
 ## Overview
-This folder includes rstan codes, graphing codes, and data for "Not too close, not too far: Interpersonal distance modulates infant-parent gaze communication" by Yamamoto, Sato and Itakura.
+This folder includes rstan codes, graphing codes, and data for "Interpersonal distance modulates infant-parent gaze communication: Evidence from eye tracking in an everyday environment" by Yamamoto, Sato and Itakura.
 
 ## Description
 It consists maily of four folders:
