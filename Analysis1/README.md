@@ -2,7 +2,7 @@ Analysis 1
 ====
 
 ## Overview
-This folder includes rstan codes, graphing codes, and data for the section "Analysis 1" in "Not too close, not too far: Interpersonal distance modulates infant-parent gaze communication" by Yamamoto, Sato and Itakura.
+This folder includes rstan codes, graphing codes, and data for the section "Analysis 1" in "Interpersonal distance modulates infant-parent gaze communication: Evidence from eye tracking in an everyday environment" by Yamamoto, Sato and Itakura.
 
 ## Description
 It consists maily of two folders and four files:
