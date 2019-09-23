@@ -2,7 +2,10 @@ Analysis 2
 ====
 
 ## Overview
-This folder includes rstan codes, graphing codes, and data for the section "Analysis 2" in "Interpersonal distance modulates infant-parent gaze communication: Evidence from eye tracking in an everyday environment" by Yamamoto, Sato and Itakura.
+This folder includes rstan codes, graphing codes, and data for the section "Analysis 2" in the following paper:
+
+Yamamoto, H., Sato, A., & Itakura, S. (2019). Eye tracking in an everyday environment reveals the interpersonal distance that affords infant-parent gaze communication. Scientific reports, 9(1), 10352.
+https://doi.org/10.1038/s41598-019-46650-6
 
 ## Description
 It consists maily of two folders and seven files:
